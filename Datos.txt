@@ -1,7 +1,11 @@
 
 Franco Nahuel Amarilla Godoy - 192.168.2.197 - 11:46
+<<<<<<< HEAD
 
 Matias Cardullo - 192.168.2.196 - 11:48
 
 
 Si se puede, al hacer el merge podes quitar los carateres "<<<","===" y ">>>>" y quedarte solo con la informacion de ambas branchs
+=======
+asd
+>>>>>>> amarilla
