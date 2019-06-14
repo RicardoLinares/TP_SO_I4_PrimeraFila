@@ -1,0 +1,12 @@
+
+Franco Nahuel Amarilla Godoy - 192.168.2.197 - 11:46
+
+Matias Cardullo - 192.168.2.196 - 11:48
+
+
+Si se puede, al hacer el merge podes quitar los carateres "<<<","===" y ">>>>" y quedarte solo con la informacion de ambas branchs
+
+Si se puede, al intentar hacer merge con datos conflictivos se puede decidir si quedarse con lo antiguo o lo nuevo
+Mientras esta en el estado de Conflicto etre archivos
+Se puede usar git checkout --theirs ("." para todos )/(Nombre Del archivo) para conservar archivos de la branch entrante
+git checkout --ours para conservar los archivos antiguos
